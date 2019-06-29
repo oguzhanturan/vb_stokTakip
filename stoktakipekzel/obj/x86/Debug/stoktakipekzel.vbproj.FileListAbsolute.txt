@@ -1,0 +1,80 @@
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\bin\Debug\stoktakipekzel.exe
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\bin\Debug\stoktakipekzel.pdb
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\bin\Debug\stoktakipekzel.xml
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form1.resources
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Resources.resources
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.GenerateResource.Cache
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\obj\x86\Debug\stoktakipekzel.xml
+C:\Users\ekrem\Documents\Visual Studio 2010\Projects\stoktakipekzel\stoktakipekzel\obj\x86\Debug\stoktakipekzel.pdb
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.xml
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.pdb
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.exe
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.pdb
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.xml
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form1.resources
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Resources.resources
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form2.resources
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form3.resources
+C:\Users\Hp\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.ResolveComReference.cache
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.xml
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.pdb
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.exe
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.pdb
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.xml
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.ResolveComReference.cache
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form1.resources
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form2.resources
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Resources.resources
+C:\Users\ekrem\Desktop\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.GenerateResource.Cache
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.ResolveComReference.cache
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.xml
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.pdb
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.exe
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.pdb
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.xml
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form1.resources
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form2.resources
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Resources.resources
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.GenerateResource.Cache
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.giris.resources
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.exe.manifest
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.application
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe.manifest
+C:\Users\ekrem\Desktop\silmetmmmı\stoktakipekzelson\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.application
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.ResolveComReference.cache
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.xml
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.pdb
+H:\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.exe.manifest
+H:\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.application
+H:\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.exe
+H:\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.pdb
+H:\stoktakipekzelson\stoktakipekzel\bin\Debug\stoktakipekzel.xml
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form1.resources
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form2.resources
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.giris.resources
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Resources.resources
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.GenerateResource.Cache
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe.manifest
+H:\stoktakipekzelson\stoktakipekzel\obj\x86\Debug\stoktakipekzel.application
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.xml
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.pdb
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\bin\Debug\stoktakipekzel.exe.manifest
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\bin\Debug\stoktakipekzel.application
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\bin\Debug\stoktakipekzel.exe
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\bin\Debug\stoktakipekzel.pdb
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\bin\Debug\stoktakipekzel.xml
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form1.resources
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form2.resources
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Resources.resources
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.vbproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.exe.manifest
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.application
+C:\Users\Hp\Desktop\Oğuzhan\Stok Takip programı\stoktakipekzel\obj\x86\Debug\stoktakipekzel.Form3.resources

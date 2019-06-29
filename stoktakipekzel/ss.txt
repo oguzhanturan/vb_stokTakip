@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/10856686/need-to-get-value-from-sql-query
